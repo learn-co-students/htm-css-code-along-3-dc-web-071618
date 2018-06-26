@@ -1,8 +1,6 @@
-/*This is a comment! */
-
-/* Type Selector */
 @import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900');
 
+/* Type Selector */
 p {
   font-size: 1em;
   line-height: 1.5em;
